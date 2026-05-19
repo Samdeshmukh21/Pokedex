@@ -1,0 +1,12 @@
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/PokedexApplication.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/cache/LRUCache.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/config/WebConfig.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/controller/PokemonController.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/dto/AbilityEntry.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/dto/PokemonData.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/dto/PokemonResponse.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/dto/SearchResult.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/dto/StatEntry.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/exception/GlobalExceptionHandler.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/exception/PokeApiException.java
+/Users/samarthdeshmukh/Downloads/Samarth/pokedex/server/src/main/java/com/pokedex/service/PokeApiService.java

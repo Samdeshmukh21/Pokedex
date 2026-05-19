@@ -1,0 +1,12 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:client": "npm install --prefix client",
+    "build:client": "npm run build --prefix client",
+    "build:server": "cd server && ./mvnw package -DskipTests",
+    "start": "cd server && ./mvnw spring-boot:run",
+    "dev": "node scripts/dev.js"
+  }
+}
